@@ -1,0 +1,6 @@
+h1{
+    color: red;
+}
+ul.nav li a, ul.nav li a:visited {
+    color: white !important;
+}
